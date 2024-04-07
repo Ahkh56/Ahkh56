@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Hanan Khan</h1>
 <h3 align="center">An Android App Developer with 4+ years of experience crafting exceptional mobile applications.</h3>
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*zzTEyTwyy7jXibtqVWg84Q.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahkh56&label=Profile%20views&color=0e75b6&style=flat" alt="ahkh56" /> </p>
 
 - 💬 Ask me about **Android Native**
