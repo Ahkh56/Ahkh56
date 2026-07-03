@@ -1,5 +1,3 @@
-![logo]()
-
 <p align="center">
   <img src="https://github.com/Ahkh56/Ahkh56/blob/main/Github%20Banner.png?raw=true" alt="Abdul Hanan Khan GitHub Banner" width="100%" />
 </p>
